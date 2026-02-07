@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f6f6f6;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.form {
+  margin-bottom: 8px;
+}
+
+input, button, select {
+  padding: 8px;
+  margin-right: 6px;
+  margin-top: 6px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#error {
+  color: red;
+  margin: 6px 0 10px 0;
+}
+
+.filter {
+  margin: 10px 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+li button {
+  margin-left: 10px;
+}
